@@ -1,0 +1,12 @@
+D:\Projects\JobQueueService\JobQueueService\bin\Debug\net6.0\JobQueueService.deps.json
+D:\Projects\JobQueueService\JobQueueService\bin\Debug\net6.0\JobQueueService.dll
+D:\Projects\JobQueueService\JobQueueService\bin\Debug\net6.0\JobQueueService.pdb
+D:\Projects\JobQueueService\JobQueueService\obj\Debug\net6.0\JobQueueService.csproj.AssemblyReference.cache
+D:\Projects\JobQueueService\JobQueueService\obj\Debug\net6.0\JobQueueService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\JobQueueService\JobQueueService\obj\Debug\net6.0\JobQueueService.AssemblyInfoInputs.cache
+D:\Projects\JobQueueService\JobQueueService\obj\Debug\net6.0\JobQueueService.AssemblyInfo.cs
+D:\Projects\JobQueueService\JobQueueService\obj\Debug\net6.0\JobQueueService.csproj.CoreCompileInputs.cache
+D:\Projects\JobQueueService\JobQueueService\obj\Debug\net6.0\JobQueueService.dll
+D:\Projects\JobQueueService\JobQueueService\obj\Debug\net6.0\refint\JobQueueService.dll
+D:\Projects\JobQueueService\JobQueueService\obj\Debug\net6.0\JobQueueService.pdb
+D:\Projects\JobQueueService\JobQueueService\obj\Debug\net6.0\ref\JobQueueService.dll

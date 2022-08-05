@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\JobQueueService\\JobQueueService.Tests\\JobQueueService.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\JobQueueService\\JobQueueService.Tests\\JobQueueService.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\JobQueueService\\JobQueueService.Tests\\JobQueueService.Tests.csproj",
+        "projectName": "JobQueueService.Tests",
+        "projectPath": "D:\\Projects\\JobQueueService\\JobQueueService.Tests\\JobQueueService.Tests.csproj",
+        "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\JobQueueService\\JobQueueService.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/hereisyourgitanton/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\JobQueueService\\JobQueueService\\JobQueueService.csproj": {
+                "projectPath": "D:\\Projects\\JobQueueService\\JobQueueService\\JobQueueService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.4.0-preview-20220707-01, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.3.0-alpha-net7.4, )"
+            },
+            "SharpDocxTemplateModels": {
+              "target": "Package",
+              "version": "[1.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\JobQueueService\\JobQueueService\\JobQueueService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\JobQueueService\\JobQueueService\\JobQueueService.csproj",
+        "projectName": "JobQueueService",
+        "projectPath": "D:\\Projects\\JobQueueService\\JobQueueService\\JobQueueService.csproj",
+        "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\JobQueueService\\JobQueueService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/hereisyourgitanton/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0-preview.6.22324.4, )"
+            },
+            "SharpDocxTemplateModels": {
+              "target": "Package",
+              "version": "[1.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
